@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Apples",
+        "price": 9.99
+    },
+    {
+        "id": 2,
+        "name": "Oranges",
+        "price": 12.99
+    },
+    {
+        "id": 3,
+        "name": "Grapes",
+        "price": 12.99
+    },
+    {
+        "id": 4,
+        "name": "Pineapples",
+        "price": 15.99
+    },
+    {
+        "id": 5,
+        "name": "Cramberries",
+        "price": 15.99
+    }   
+]
