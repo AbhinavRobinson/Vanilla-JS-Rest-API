@@ -1,7 +1,7 @@
 {
   "name": "vanilla-js-rest-api",
   "version": "1.0.0",
-  "description": "A vanilla NodeJS CRUD api for educational purposes.",
+  "description": "A vanilla NodeJS rest api for educational purposes.",
   "main": "server.js",
   "scripts": {
     "start": "node",

@@ -1,6 +1,6 @@
-# Vanilla-JS-Rest-API
+# A vanilla nodejs rest api
 
-A vanilla NodeJS CRUD API for educational purposes.
+A vanilla NodeJS REST API for educational purposes.
 
 ## Features
 
