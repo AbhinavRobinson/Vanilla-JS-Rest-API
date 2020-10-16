@@ -1,36 +1,21 @@
 [{
-        "id": "1",
-        "name": "Apples",
-        "price": 9.99
-    },
-    {
-        "id": "2",
-        "name": "Oranges",
-        "price": 12.99
-    },
-    {
-        "id": "3",
-        "name": "Grapes",
-        "price": 12.99
-    },
-    {
-        "id": "4",
-        "name": "Pineapples",
-        "price": 15.99
-    },
-    {
-        "id": "5",
-        "name": "Cramberries",
-        "price": 15.99
-    },
-    {
-        "id": "a9b96433-87ef-475d-b0be-46086b2f3b76",
-        "title": "Strawberries",
-        "price": 12.99
-    },
-    {
-        "id": "c2076be7-f793-4b4c-ae50-ada2d4491bf4",
-        "title": "Blueberries",
-        "price": 19.99
-    }
-]
+    "id": "1",
+    "name": "Apples",
+    "price": 9.99
+}, {
+    "id": "2",
+    "name": "Oranges",
+    "price": 17.99
+}, {
+    "id": "3",
+    "name": "Grapes",
+    "price": 12.99
+}, {
+    "id": "4",
+    "name": "Pineapples",
+    "price": 15.99
+}, {
+    "id": "5",
+    "name": "Cramberries",
+    "price": 15.99
+}]
