@@ -13,6 +13,7 @@ A vanilla NodeJS REST API for educational purposes.
 - NodeJS
 - Nodemon (for dev)
 - uuid (generating id for products)
+- JS >= ES9 (promises and spread operator "..." used)
 
 ## Installation
 
