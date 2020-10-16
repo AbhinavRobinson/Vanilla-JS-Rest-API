@@ -12,6 +12,7 @@ A vanilla NodeJS REST API for educational purposes.
 
 - NodeJS
 - Nodemon (for dev)
+- uuid (generating id for products)
 
 ## Installation
 
